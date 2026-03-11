@@ -1,0 +1,18 @@
+h1 {
+    text-align:center;
+}
+li{
+    color: aqua;
+}
+body{
+    background-color: #0B132B;
+    color: aliceblue;
+}
+
+img {
+    display: block;
+    margin: auto;
+    margin-bottom: 70px;
+    width: 275px;
+    height: auto;
+}
